@@ -1,0 +1,313 @@
+.list {
+    list-style: none;
+}
+
+
+
+a {
+
+    text-decoration: none;
+    color: black;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+.home,
+.shop,
+.about,
+.contact,
+.logo,
+.blog {
+
+    display: inline;
+
+}
+
+
+
+.home {
+    margin-left: 250px;
+
+}
+
+.shop,
+.contact,
+.about,
+.blog {
+    margin-left: 66px;
+}
+
+.user {
+    width: 13px;
+    height: 13px;
+    margin-left: 200px;
+}
+
+
+
+
+
+
+img {
+    display: inline;
+}
+
+.navigation {
+
+    padding-top: 30px;
+    padding-bottom: 50px;
+
+}
+
+.shopping-cart {
+    width: 17px;
+    height: 17px;
+    margin-left: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.menu-icon {
+    width: 40px;
+    height: 40px;
+
+    margin-top: 15px;
+
+
+}
+
+.categories {
+    display: inline;
+    margin-left: 10px;
+    margin-top: 26px;
+
+
+}
+
+.searchSection {
+    list-style: none;
+    display: flex;
+    margin-top: 20px;
+    background-color: #0052CC;
+
+    height: 70px;
+
+}
+
+
+
+
+.searchIcon {
+    width: 30px;
+    height: 30px;
+    margin-left: 380px;
+    margin-top: 20px;
+    background-color: white;
+
+}
+
+.searchInput {
+    margin-top: 20px;
+    height: 30px;
+
+
+}
+
+
+
+
+
+.dealsText {
+    padding: 100px;
+    font-family: 'Poppins', sans-serif;
+    margin-left: 460px;
+    display: inline-block;
+}
+
+
+
+
+
+
+
+body {
+    min-height: 100vh;
+}
+
+footer {
+    margin-top: 0px;
+}
+
+
+
+
+
+section {
+
+    margin-top: 160px;
+    margin-bottom: 0px;
+}
+
+.one {
+
+    margin-left: 20px;
+}
+
+.two {
+
+    margin-left: 20px;
+}
+
+.three {
+
+    margin-left: 20px;
+}
+
+.four {
+    margin-left: 20px;
+}
+
+img {
+
+    width: 100%;
+}
+
+.sect {
+    margin-top: 0px;
+
+}
+
+.card {
+    width: 260px;
+    height: 340px;
+    border: 1px solid white;
+    padding: 11px;
+    display: inline-block;
+}
+
+
+.title {
+    margin-top: 20px;
+    font-family: 'Poppins', sans-serif;
+    color: black;
+    display: inline;
+}
+
+.price {
+
+    display: inline;
+    margin-left: 65px;
+    font-size: 13px;
+    font-style: italic;
+
+}
+
+.line {
+    margin-top: 20px;
+    border-bottom: 2px solid blue;
+    width: 230px;
+
+}
+
+.date {
+    margin-top: 20px;
+    display: inline;
+    font-family: sans-serif;
+    font-style: inherit;
+    font-size: 13px;
+    filter: brightness(50%);
+}
+
+
+.button {
+    border: #0052CC;
+    margin-left: 20px;
+    margin-top: 20px;
+
+}
+
+
+
+
+/*footer*/
+
+.footerSection {
+    background-color: #0052CC;
+    height: 250px;
+}
+
+.div1,
+.div2,
+.div3 {
+    display: inline-block;
+
+}
+
+.footerLogo {
+    width: 122px;
+    height: 36px;
+    display: block;
+    margin-left: 80px;
+    margin-top: 20px;
+}
+
+.pic {
+
+    display: block;
+}
+
+.instagram,
+.in,
+.twitter {
+    display: inline-block;
+    margin-top: 70px;
+    width: 15px;
+    height: 15px;
+}
+
+.instagram {
+    margin-left: 85px;
+}
+
+
+.div2 {
+    margin-left: 170px;
+
+}
+
+.footerButtons1,
+.footerButtons2,
+.footerButtons3 {
+    list-style: none;
+    display: inline-block;
+
+
+}
+
+h3 {
+    color: aliceblue;
+}
+
+
+.icon {
+    padding-left: 25px;
+    margin-left: 120px;
+    background: url("https://cdn.iconscout.com/icon/premium/png-256-thumb/search-email-1578811-1346630.png") no-repeat right;
+    background-size: 20px;
+    background-color: aliceblue;
+}
+
+.txt {
+
+    margin-left: 120px;
+    width: 250px;
+}
